@@ -1,0 +1,12 @@
+101;£opata du¿a;narzêdzia;127.50
+102;Grabie;narzêdzia;34.50
+103;Baton Snickers;s³odycze;2.50
+104;Baton Mars;s³odycze;2.35
+105;M³otek œlusarski;narzêdzia;12.00
+106;Wiertarka udarowa;narzêdzia;325.00
+107;Call of Duty;oprogramowanie;190.00
+108;Czekolada nadziewana;s³odycze;3.49
+109;Intellij IDEA;oprogramowanie;650.00
+110;Microsoft Windows;oprogramowanie;649.00
+111;Klucz francuski;narzêdzia;73.50
+112;Zaliczenie egzaminu;inne;250.00
